@@ -4,5 +4,6 @@
 2. 對`vlc-protocol-register.bat`按右鍵選擇以系統管理員身分執行，然後同意
 3. 接著會看到`操作順利完成。`
 4. 隨意點擊vlc://的串流網址就會看到以下畫面，點選一律允許即可，接著就會呼叫VLC播放影片了
-<!-- ![](https://i.imgur.com/xeB76hP.png)   -->
+
+<!-- ![](https://i.imgur.com/vh1Z03P.png)   -->
 ![](vlc.png)
